@@ -173,9 +173,15 @@ img {
         height: 100%;
     }
 
+    .steps {
+        margin: 0;
+    }
+
     .why-us {
         background-color: #222222;
         margin-bottom: 0;
+        padding-top: 3rem;
+        padding: 3rem 1rem;
     }
 
     .why-us .col-left {
@@ -185,5 +191,9 @@ img {
 
     .why-us .col-right {
         width: 100%;
+    }
+
+    h2 {
+        font-size: 40px;
     }
  }
