@@ -146,5 +146,15 @@ img {
         width: 100%;
     }
 
-    
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .lessons, .col{
+        width: 100%;
+    }
+
+
+
  }
