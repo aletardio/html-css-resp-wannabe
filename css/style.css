@@ -134,7 +134,23 @@ img {
         width: 100%;
     }
 
-    .col {
+    .lessons .col {
+        width: 50%;
+    }
+    
+    img {
+        height: 100%;
+    }
+
+    .steps .col {
+        width: 50%;
+    }
+
+    .why-us .col-left {
+        width: 50%;
+    }
+
+    .why-us .col-right {
         width: 50%;
     }
  }
