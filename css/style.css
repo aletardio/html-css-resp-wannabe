@@ -151,10 +151,25 @@ img {
         flex-wrap: wrap;
     }
 
-    .lessons .col{
+    .lessons .col {
         width: 100%;
+        margin: 25px;
     }
 
+    .lessons .col img {
+        height: 100%;
+    }
 
+    .card {
+        margin-bottom: 30px;
+    }
 
+    .steps .col {
+        width: 100%;
+        margin: 25px;
+    }
+
+    .steps .col img {
+        height: 100%;
+    }
  }
