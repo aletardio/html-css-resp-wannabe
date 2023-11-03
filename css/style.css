@@ -172,4 +172,18 @@ img {
     .steps .col img {
         height: 100%;
     }
+
+    .why-us {
+        background-color: #222222;
+        margin-bottom: 0;
+    }
+
+    .why-us .col-left {
+        width: 100%;
+        margin: 25px;
+    }
+
+    .why-us .col-right {
+        width: 100%;
+    }
  }
